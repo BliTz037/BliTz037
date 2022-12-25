@@ -9,7 +9,7 @@
 
 <h2>About me</h2>
 
-- 👨‍🎓 4th year student at Epitech
+- 👨‍🎓 4rd years student at Epitech
 - 🇰🇷 Current in South Korea
 - ♥️ I love API
 - 🍊 I like orange
