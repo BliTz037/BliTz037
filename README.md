@@ -6,20 +6,20 @@
 </br>
 
 <p>BliTz is a developper, who studies in a big school named Epitech from Paris.</p>
-<p>But he is also an A.S.T.E.K who likes to help first year epitech students to learn the C language</p>
 
 <h2>About me</h2>
 
-- 👨‍🎓 Third year student at Epitech
-- 👨‍🏫🔴 A.S.T.E.K
-- 🍊 I likes orange
+- 👨‍🎓 4th year student at Epitech
+- 🇰🇷 Current in South Korea
+- ♥️ I love API
+- 🍊 I like orange
 - 🚂 I love Thomas The Tank Engine
-- 🤫 Fun fact: My favorite driver in F1 is Lewis Hamilton
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h3>Languages</h3>
 <a href="#"> <img width="32px" src="https://lh3.googleusercontent.com/1NTw-mJ9bTiBiWfJ3_i22prvc3A7xvDNs4mmXSM76bqWT0-kTJ6LYDfIdgB_lWDPH_4"> </a>
 <a href="#"> <img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> </a>
+<a href="#"> <img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"> </a>
 <a href="#"> <img width="64px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"> </a>
 <a href="#"> <img width="32px" src="https://www.developpez.net/forums/attachments/p294178d1/a/a/a"> </a>
 <a href="#"> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> </a>
@@ -32,6 +32,7 @@
 <a href="#"> <img width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"> </a>
 <a href="#"> <img width="100px" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"> </a>
 <a href="#"> <img width="42px" src="https://www.logigroup.com/images/modules/react.gif"> </a>
+<a href="#"> <img width="42px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"> </a>
 <a href="#"> <img width="32px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png"> </a>
 <a href="#"> <img width="52px" src="https://zohowebstatic.com/sites/default/files/ogimage/zoho-logo.png"> </a>
 <a href="#"> <img width="32px" src="https://seeklogo.com/images/D/dialogflow-logo-534FF34238-seeklogo.com.png"> </a>
