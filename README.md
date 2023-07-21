@@ -2,15 +2,15 @@
   <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/60670940?v=4">
 </p>
 
-<h1 align="center">Hey ! I'm <a href="https://github.com/BliTz037">BliTz037</a>👋</h1>
+<h1 align="center">Hi ! I'm <a href="https://github.com/BliTz037">BliTz</a>👋</h1>
 </br>
 
-<p>BliTz is a developper, who studies in a big school named Epitech from Paris.</p>
+<p>BliTz is a french developper, who studies in a big school named Epitech from Paris 🇫🇷.</p>
 
 <h2>About me</h2>
 
-- 👨‍🎓 4rd years student at Epitech
-- 🇰🇷 Current in South Korea
+- 👨‍🎓 5rd years student at Epitech
+- 🇫🇷 French developer
 - ♥️ I love API
 - 🍊 I like orange
 - 🚂 I love Thomas The Tank Engine
