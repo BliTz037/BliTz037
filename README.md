@@ -2,17 +2,18 @@
   <img width="128" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/60670940?v=4">
 </p>
 
-<h1 align="center">Hi ! I'm <a href="https://github.com/BliTz037">BliTz</a>👋</h1>
+<h1 align="center">Hey ! I'm <a href="https://github.com/BliTz037">BliTz</a>👋</h1>
 </br>
 
-<p>BliTz is a french developper, who studies in a big school named Epitech from Paris 🇫🇷.</p>
+<p>BliTz is a french Backend Engineer, who works at Withings in Paris 🇫🇷.</p>
 
 <h2>About me</h2>
 
-- 👨‍🎓 5rd years student at Epitech
+- 👨‍💻 Backend Engineer
+- 👨‍🎓 Epitech Alumni promo 2024
 - 🇫🇷 French developer
 - ♥️ I love API
-- 🍊 I like orange
+- 🐧 I like Penguin
 - 🚂 I love Thomas The Tank Engine
 
 <h2>Skills</h2>
@@ -26,8 +27,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-007ACC?style=for-the-badge&logo=php&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
